@@ -1,4 +1,4 @@
-# SvelteKit Commerce + Binance Pay Integration
+# SvelteKit Commerce + Binance Pay Integration [demo](https://binpay.vercel.app)
 
 <img width="843" alt="sveltekit-commerce" src="static/shop.jpg">
 
