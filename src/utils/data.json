@@ -1,0 +1,1361 @@
+[
+    {
+        "node": {
+            "id": "gid://shopify/Product/6621772644516",
+            "handle": "acme-cup",
+            "availableForSale": true,
+            "title": "ACME Cup",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.",
+            "descriptionHtml": "<meta charset=\"utf-8\"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.</span>",
+            "options": [
+                {
+                    "id": "gid://shopify/ProductOption/8505918849188",
+                    "name": "Color",
+                    "values": [
+                        "White",
+                        "Black"
+                    ]
+                }
+            ],
+            "priceRange": {
+                "maxVariantPrice": {
+                    "amount": "25.0",
+                    "currencyCode": "USD"
+                },
+                "minVariantPrice": {
+                    "amount": "25.0",
+                    "currencyCode": "USD"
+                }
+            },
+            "variants": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "hasPreviousPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40064679805092",
+                            "title": "White",
+                            "sku": "200",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40064679837860",
+                            "title": "Black",
+                            "sku": "201",
+                            "availableForSale": false,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    }
+                ]
+            },
+            "images": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "hasPreviousPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/Cup-front-black.png?v=1623159405",
+                            "altText": null,
+                            "width": 2048,
+                            "height": 2048
+                        }
+                    },
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/Cup-front-white.png?v=1623159430",
+                            "altText": null,
+                            "width": 2048,
+                            "height": 2048
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/5447324270756",
+            "handle": "bomber-jacket",
+            "availableForSale": true,
+            "title": "Bomber Jacket",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.",
+            "descriptionHtml": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.</p>",
+            "options": [
+                {
+                    "id": "gid://shopify/ProductOption/6940503015588",
+                    "name": "Size",
+                    "values": [
+                        "L",
+                        "XL",
+                        "XXL"
+                    ]
+                },
+                {
+                    "id": "gid://shopify/ProductOption/8655769764004",
+                    "name": "Color",
+                    "values": [
+                        "Black",
+                        "DarkOliveGreen"
+                    ]
+                }
+            ],
+            "priceRange": {
+                "maxVariantPrice": {
+                    "amount": "635.99",
+                    "currencyCode": "USD"
+                },
+                "minVariantPrice": {
+                    "amount": "635.99",
+                    "currencyCode": "USD"
+                }
+            },
+            "variants": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "hasPreviousPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046243905700",
+                            "title": "L / Black",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "635.99",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": {
+                                "amount": "5200.0",
+                                "currencyCode": "USD"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046243938468",
+                            "title": "L / DarkOliveGreen",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkOliveGreen"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "635.99",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": {
+                                "amount": "5200.0",
+                                "currencyCode": "USD"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046243971236",
+                            "title": "XL / Black",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "635.99",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": {
+                                "amount": "5200.0",
+                                "currencyCode": "USD"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046244004004",
+                            "title": "XL / DarkOliveGreen",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkOliveGreen"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "635.99",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": {
+                                "amount": "5200.0",
+                                "currencyCode": "USD"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046244036772",
+                            "title": "XXL / Black",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XXL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "635.99",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": {
+                                "amount": "5200.0",
+                                "currencyCode": "USD"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046244069540",
+                            "title": "XXL / DarkOliveGreen",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XXL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkOliveGreen"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "635.99",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": {
+                                "amount": "5200.0",
+                                "currencyCode": "USD"
+                            }
+                        }
+                    }
+                ]
+            },
+            "images": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "hasPreviousPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/bomber-jacket-0.png?v=1622902777",
+                            "altText": null,
+                            "width": 1000,
+                            "height": 1000
+                        }
+                    },
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/bomber-jacket-1.png?v=1622902777",
+                            "altText": null,
+                            "width": 1000,
+                            "height": 1000
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/5447325024420",
+            "handle": "new-short-sleeve-t-shirt",
+            "availableForSale": true,
+            "title": "New Short Sleeve T-Shirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.",
+            "descriptionHtml": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.<br></p>",
+            "options": [
+                {
+                    "id": "gid://shopify/ProductOption/6940503769252",
+                    "name": "Size",
+                    "values": [
+                        "XS",
+                        "S",
+                        "M",
+                        "L",
+                        "XL"
+                    ]
+                },
+                {
+                    "id": "gid://shopify/ProductOption/8655765471396",
+                    "name": "Color",
+                    "values": [
+                        "white",
+                        "grey",
+                        "DarkTurquoise",
+                        "LightSalmon"
+                    ]
+                }
+            ],
+            "priceRange": {
+                "maxVariantPrice": {
+                    "amount": "25.0",
+                    "currencyCode": "USD"
+                },
+                "minVariantPrice": {
+                    "amount": "25.0",
+                    "currencyCode": "USD"
+                }
+            },
+            "variants": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "hasPreviousPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046230962340",
+                            "title": "XS / white",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046230995108",
+                            "title": "XS / grey",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "grey"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231027876",
+                            "title": "XS / DarkTurquoise",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkTurquoise"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231060644",
+                            "title": "XS / LightSalmon",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "LightSalmon"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231093412",
+                            "title": "S / white",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231126180",
+                            "title": "S / grey",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "grey"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231158948",
+                            "title": "S / DarkTurquoise",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkTurquoise"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231191716",
+                            "title": "S / LightSalmon",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "LightSalmon"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231224484",
+                            "title": "M / white",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231257252",
+                            "title": "M / grey",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "grey"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231290020",
+                            "title": "M / DarkTurquoise",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkTurquoise"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231322788",
+                            "title": "M / LightSalmon",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "LightSalmon"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231355556",
+                            "title": "L / white",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231388324",
+                            "title": "L / grey",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "grey"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231421092",
+                            "title": "L / DarkTurquoise",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkTurquoise"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231453860",
+                            "title": "L / LightSalmon",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "LightSalmon"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231486628",
+                            "title": "XL / white",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231519396",
+                            "title": "XL / grey",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "grey"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231552164",
+                            "title": "XL / DarkTurquoise",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkTurquoise"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046231584932",
+                            "title": "XL / LightSalmon",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "LightSalmon"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "25.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    }
+                ]
+            },
+            "images": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "hasPreviousPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/short-sleeve-t-shirt-0.png?v=1622902418",
+                            "altText": null,
+                            "width": 1000,
+                            "height": 1000
+                        }
+                    },
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/short-sleeve-t-shirt-4.png?v=1622902418",
+                            "altText": null,
+                            "width": 1000,
+                            "height": 1000
+                        }
+                    },
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/short-sleeve-t-shirt-3.png?v=1622902418",
+                            "altText": null,
+                            "width": 1000,
+                            "height": 1000
+                        }
+                    },
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/short-sleeve-t-shirt-2.png?v=1622902418",
+                            "altText": null,
+                            "width": 1000,
+                            "height": 1000
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/5447324729508",
+            "handle": "short-sleeve-t-shirt",
+            "availableForSale": true,
+            "title": "Short Sleeve T-Shirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.",
+            "descriptionHtml": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.</p>",
+            "options": [
+                {
+                    "id": "gid://shopify/ProductOption/6940503474340",
+                    "name": "Size",
+                    "values": [
+                        "M",
+                        "L",
+                        "XL"
+                    ]
+                },
+                {
+                    "id": "gid://shopify/ProductOption/8655761178788",
+                    "name": "Color",
+                    "values": [
+                        "gray",
+                        "beige",
+                        "white",
+                        "DarkTurquoise"
+                    ]
+                }
+            ],
+            "priceRange": {
+                "maxVariantPrice": {
+                    "amount": "35.0",
+                    "currencyCode": "USD"
+                },
+                "minVariantPrice": {
+                    "amount": "35.0",
+                    "currencyCode": "USD"
+                }
+            },
+            "variants": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "hasPreviousPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/35180690669732",
+                            "title": "M / gray",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "gray"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/35180690702500",
+                            "title": "L / gray",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "gray"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/35180690735268",
+                            "title": "XL / gray",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "gray"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046203437220",
+                            "title": "M / beige",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "beige"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046207369380",
+                            "title": "L / beige",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "beige"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046207729828",
+                            "title": "XL / beige",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "beige"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046212612260",
+                            "title": "M / white",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046212907172",
+                            "title": "L / white",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046213300388",
+                            "title": "XL / white",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046214742180",
+                            "title": "M / DarkTurquoise",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkTurquoise"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046218346660",
+                            "title": "L / DarkTurquoise",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkTurquoise"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40046220214436",
+                            "title": "XL / DarkTurquoise",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XL"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "DarkTurquoise"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "35.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": null
+                        }
+                    }
+                ]
+            },
+            "images": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "hasPreviousPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/short-sleeve-0.png?v=1622901991",
+                            "altText": null,
+                            "width": 1000,
+                            "height": 1000
+                        }
+                    },
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/short-sleeve-1.png?v=1622901991",
+                            "altText": null,
+                            "width": 1000,
+                            "height": 1000
+                        }
+                    },
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/short-sleeve-2.png?v=1622901991",
+                            "altText": null,
+                            "width": 1000,
+                            "height": 1000
+                        }
+                    },
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/short-sleeve-3.png?v=1622901991",
+                            "altText": null,
+                            "width": 1000,
+                            "height": 1000
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/5447323812004",
+            "handle": "sticker",
+            "availableForSale": true,
+            "title": "Sticker",
+            "description": "Wafer cupcake candy macaroon bonbon candy canes cheesecake candy. Donut chupa chups sesame snaps candy chocolate cake chocolate cake danish. Tart cotton candy gummies cotton candy sweet roll. Wafer pie chocolate cake. Caramels toffee gummies. Liquorice sweet oat cake chocolate candy canes toffee bear claw. Chocolate cupcake wafer. Halvah soufflé halvah. Dessert pastry toffee apple pie chocolate cake lemon drops. Tart carrot cake wafer halvah tiramisu fruitcake.",
+            "descriptionHtml": "<p><meta charset=\"utf-8\">Wafer cupcake candy macaroon bonbon candy canes cheesecake candy. Donut chupa chups sesame snaps candy chocolate cake chocolate cake danish. Tart cotton candy gummies cotton candy sweet roll. Wafer pie chocolate cake. Caramels toffee gummies. Liquorice sweet oat cake chocolate candy canes toffee bear claw. Chocolate cupcake wafer. Halvah soufflé halvah. Dessert pastry toffee apple pie chocolate cake lemon drops. Tart carrot cake wafer halvah tiramisu fruitcake.<br></p>",
+            "options": [
+                {
+                    "id": "gid://shopify/ProductOption/6940502524068",
+                    "name": "Color",
+                    "values": [
+                        "Gradient"
+                    ]
+                }
+            ],
+            "priceRange": {
+                "maxVariantPrice": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                },
+                "minVariantPrice": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                }
+            },
+            "variants": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "hasPreviousPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/40008892580004",
+                            "title": "Gradient",
+                            "sku": "",
+                            "availableForSale": true,
+                            "requiresShipping": true,
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Gradient"
+                                }
+                            ],
+                            "priceV2": {
+                                "amount": "0.0",
+                                "currencyCode": "USD"
+                            },
+                            "compareAtPriceV2": {
+                                "amount": "60.0",
+                                "currencyCode": "USD"
+                            }
+                        }
+                    }
+                ]
+            },
+            "images": {
+                "pageInfo": {
+                    "hasNextPage": false,
+                    "hasPreviousPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "originalSrc": "https://cdn.shopify.com/s/files/1/0434/0285/4564/products/Sticker-mock.png?v=1623256356",
+                            "altText": null,
+                            "width": 900,
+                            "height": 900
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]
